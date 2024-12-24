@@ -1,0 +1,15 @@
+
+.cardStyle {
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+.followinginfo {
+    margin-bottom: 20px;
+}
+.heading {
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+    color: #fff;
+}
